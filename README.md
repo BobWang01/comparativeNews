@@ -1,8 +1,7 @@
 # comparativeNews
 Web spider for Global Media
 
-# comparativeNews
-# 比较新闻
+# ComparativeNews 比较新闻
 
 Creater: Fengbo Wang
 王丰博
